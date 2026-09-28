@@ -14,11 +14,11 @@ Public assets and HTML template for the Maximus Metals Inc. email signature.
 
 ## How to use the template
 
-1. Download `signature-template.html`.
-2. Open it in a plain-text editor (VS Code, Notepad, or TextEdit in plain-text mode).
-3. Search for `CHANGE` and update your name, position, mobile number and email. For the mobile number and email, update both the visible text and the `href`.
-4. Save the file and open it in Chrome.
-5. Select the whole signature (Cmd/Ctrl + A), copy it and paste it into your email client's signature settings (Gmail, Outlook, Apple Mail).
+1. Download `MAXIMUSMETALS_signature-template`.
+3. Open it in a plain-text editor (VS Code, Notepad, or TextEdit in plain-text mode).
+4. Search for `CHANGE` and update your name, position, mobile number and email. For the mobile number and email, update both the visible text and the `href`.
+5. Save the file and open it in Chrome.
+6. Select the whole signature (Cmd/Ctrl + A), copy it and paste it into your email client's signature settings (Gmail, Outlook, Apple Mail).
 
 ## Notes
 
